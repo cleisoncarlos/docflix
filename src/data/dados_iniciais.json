@@ -1,0 +1,201 @@
+{
+  "categorias": [
+    {
+      "titulo": "Tecnologia",
+      "link": "#",
+      "cor": "#6a89cc",
+      "link_extra": {
+        "text": "Para quem ama tecnologia",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "O Menino da Internet: a História de Aaron Swartz",
+          "url": "https://www.youtube.com/watch?v=2uj1EeiuK5U"
+        },
+        {
+          "titulo": "Power - A Grande Conspiração Contra a Tecnologia",
+          "url": "https://www.youtube.com/watch?v=nRQU8cLbJag"
+        },
+        {
+          "titulo": "Cidades do Futuro",
+          "url": "https://www.youtube.com/watch?v=G41YDSVwcgs"
+        },
+        {
+          "titulo": "O Trabalho do futuro",
+          "url": "https://www.youtube.com/watch?v=oDcgWE_3VII"
+        },
+        {
+          "titulo": "Obsolescência Programada - The Light bulb Conspiracy ",
+          "url": "https://www.youtube.com/watch?v=H7EUyuNNaCU"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        }
+           
+      ]
+    },
+    {
+      "titulo": "Sociedade",
+      "cor": "#38ada9",
+      "link_extra": {
+        "text": "Reflexões sobre a sociedade morderna",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Paradise or Oblivion",
+          "url": "https://www.youtube.com/watch?v=KphWsnhZ4Ag"
+        },
+        {
+          "titulo": "A Corporação",
+          "url": "https://www.youtube.com/watch?v=Zx0f_8FKMrY"
+        },
+        {
+          "titulo": "Cortina de Fumaça",
+          "url": "https://www.youtube.com/watch?v=eTuigVp6Iro"
+        },
+        {
+          "titulo": "Muito além do peso",
+          "url": "https://www.youtube.com/watch?v=8UGe5GiHCT4&feature=youtu.be"
+        }, 
+        {
+          "titulo": "Educação Proibida",
+          "url": "https://www.youtube.com/watch?v=OTerSwwxR9Y"
+        }
+      ]
+    },
+    {
+      "titulo": "Casos Reais",
+      "cor": "#eb2f06",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Quem matou Eloá?",
+          "url": "https://www.youtube.com/watch?v=4IqIaDR_GoQ"
+        },
+        {
+          "titulo": "Josef Fritzl História de um monstro",
+          "url": "https://www.youtube.com/watch?v=e8J8PneTfgs&list=PLVnPTsx4BbwSzwy45jYP8r1asgIFZyLTy&index=10&t=0s"
+        },
+        {
+          "titulo": "A Ira de um Anjo (Child of Rage) ",
+          "url": "https://www.youtube.com/watch?v=8Bp-cgUQpbk"
+        },
+        {
+          "titulo": "A verdade por trás do crime - Michael Jackson",
+          "url": "https://www.youtube.com/watch?v=fh-veC1FRYI"
+        },
+{
+        "titulo": "Crimes que mudaram o mundo",
+        "url": "https://www.youtube.com/watch?v=YeToPo6qslw"
+}
+      ]
+    },
+   
+    {
+      "titulo": "Games",
+      "cor": "#b71540",
+      "link_extra": {
+        "text": "A consolidação do Videgame na cultura mundial",
+        "url": "https://www.youtube.com/watch?v=KzTpNEAfEWg"
+      },
+      "videos": [
+         {
+          "titulo": "Pirataria de Games no Brasil Também é Cultura",
+          "url": "https://www.youtube.com/watch?v=xxreSj2lWfI"
+        },
+        {
+          "titulo": "A história dos videogames",
+          "url": "https://www.youtube.com/watch?v=xIrs9js0uHo"
+        },
+        {
+          "titulo": "1982 - o anos dos videgames",
+          "url": "https://www.youtube.com/watch?v=BpYfeR7p8yw"
+        },
+        {
+          "titulo": "A era dos clones brasileiros",
+          "url": "https://www.youtube.com/watch?v=fOj367wBk3A"
+        },
+     
+        {
+          "titulo": "Atari - Game Over",
+          "url": "https://www.youtube.com/watch?v=LsJOiV2E9cU"
+        }
+      ]
+    },
+
+
+
+    {
+      "titulo": "Curas de animações",
+      "cor": "#fa983a",
+      "videos": [
+        {
+          "titulo": "Em busca do corpo perfeito",
+          "url": "https://www.youtube.com/watch?v=b-5ASKgnWTc"
+        },
+        {
+          "titulo": "O poder da empatia",
+          "url": "https://www.youtube.com/watch?v=Rr2uKa7dMgY"
+        },
+        {
+          "titulo": "A Chegada das 4 estações",
+          "url": "https://www.youtube.com/watch?v=9ZNIX1Em3Do"
+        },
+        {
+          "titulo": "Para crianças se encatarem por livros",
+          "url": "https://www.youtube.com/watch?v=siU1QwvAiHU"
+        },
+        {
+          "titulo": "Piper",
+          "url": "https://www.youtube.com/watch?v=ulde8n7cC68"
+        }
+
+
+
+
+
+        
+      ]
+    },  
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
