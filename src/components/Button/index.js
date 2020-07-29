@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
 const Button = styled.button`
-  color: var(--white);
-  border: 1px solid var(--white);
+  color: var(--vermelho);
+  border: 3px solid var(--vermelho);
   box-sizing: border-box;
   cursor: pointer;
-  padding: 16px 24px;
+  padding: 10px 20px;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -14,6 +14,7 @@ const Button = styled.button`
   text-decoration: none;
   display: inline-block;
   transition: opacity .3s;
+  font-family: 'Montserrat', sans-serif;
 
   &:hover,
   &:focus {

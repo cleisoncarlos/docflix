@@ -5,14 +5,14 @@
 
 :root {
   --primary: #2A7AE4;
-  --black: #000000;
+  --black: #202126;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
   --white: #FFFFFF;
   --frontEnd: #6BD1FF;
   --backEnd: #00C86F;
-  --vermelho: #dc1a28;
+  --vermelho: #f12137;
 }
 
 html,
@@ -20,6 +20,10 @@ body {
   margin: 0;
   padding: 0;
   
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 a {
