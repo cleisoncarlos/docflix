@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const ContentAreaContainer = styled.section`
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
   height: 100%;
   display: flex;
   align-items: center;

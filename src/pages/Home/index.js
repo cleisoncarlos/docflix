@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"A história do ativista de internet e pioneiro de programação Aaron Swartz a partir de sua adolescencia, seu envolvimento com o RSS, a fundação do Reddit, e seu crescente interesse na defesa política relacionada a Cultura Livre. O filme ainda explora sua prisão, as táticas da acusação a fundamentar seus supostos crimes. "}
       />
 
       <Carousel
